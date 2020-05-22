@@ -4,5 +4,4 @@ The webiste wasn't fully deployed; it is managed and operational through a local
 
 ## Home Page
 wheen users navigate to the website, they are presented with the below default home page of the website. This page contains fictional information about a Conference Event.
-
-[Home Page](/assets/QICC - Home.png)
+![Home Page](/assets/QICC - Home.png)
