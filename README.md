@@ -6,5 +6,9 @@ wheen users navigate to the website, they are presented with the below default h
 ![Home Page](/assets/QICC%20-%20Home.png)
 
 ## Hotel
+The conference assigns students to a room of no more than 4 students and the hotel page allows vistors to view information about a particular hotel room.
+![Hotel Page](/assets/QUIC%20-%20Find%20Hotel%20Room.png)
+
+## Sub-Committees
 The conference has "sub-committees" that essentially sponsor the Conference and these committees are added via the Admin section.
-![Hotel Page](/assets/QUIC%20-%20Find%20Committee.png)
+![Committee Page](/assets/QUIC%20-%20Find%20Committee.png)
