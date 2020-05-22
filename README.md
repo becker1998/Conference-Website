@@ -12,3 +12,8 @@ The conference assigns students to a room of no more than 4 students and the hot
 ## Sub-Committees
 The conference has "sub-committees" that essentially sponsor the Conference and these committees are added via the Admin section.
 ![Committee Page](/assets/QUIC%20-%20Find%20Committee.png)
+
+## Admin
+The Admin creates a drop down menu when the mouse hovers over it. Which displays a list of Admin actions that can be used to create and/or modify information pertaining to the conference
+![Admin Section](/assets/QUIC%20-%20Admin%20Drop%20Down%20Menu.png)
+![Switch Session Page](/assets/QUIC%20-%20Switch%20Session.png)
