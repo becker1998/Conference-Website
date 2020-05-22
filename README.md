@@ -7,4 +7,4 @@ wheen users navigate to the website, they are presented with the below default h
 
 ## Hotel
 The conference has "sub-committees" that essentially sponsor the Conference and these committees are added via the Admin section.
-![Hotel Page](/assets/QUIC%20-%20Admin%20Drop%20Down%20Menu.png)
+![Hotel Page](/assets/QUIC%20-%20Find%20Committee.png)
